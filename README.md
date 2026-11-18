@@ -16,7 +16,7 @@ O código-fonte está no arquivo **`BackEnd-ProjetoP2.zip`** deste repositório.
 ### 1. Baixar o repositório e extrair o zip
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/Salamoni666/autorent-api.git
 cd SEU_REPOSITORIO
 ```
 
